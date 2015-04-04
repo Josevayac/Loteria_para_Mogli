@@ -1,0 +1,10 @@
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\EntityFramework.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\EntityFramework.xml
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\AccesoDatos\obj\Debug\AccesoDatos.pdb

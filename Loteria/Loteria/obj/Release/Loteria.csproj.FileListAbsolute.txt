@@ -1,0 +1,6 @@
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.dll.config
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.csprojResolveAssemblyReference.cache
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.pdb

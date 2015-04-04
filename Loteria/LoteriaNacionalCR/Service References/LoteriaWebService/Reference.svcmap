@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c5dc9150-d81f-4b12-9af9-549e8da8cc5a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:30860/LoteriaNacional.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LoteriaNacional.wsdl" MetadataType="Wsdl" ID="03838bbd-9ee5-40bc-b611-5b68acfe0470" SourceId="1" SourceUrl="http://localhost:30860/LoteriaNacional.svc?wsdl" />
+    <MetadataFile FileName="LoteriaNacional.xsd" MetadataType="Schema" ID="9fb59af2-10f9-4f3f-b30e-a520046dd018" SourceId="1" SourceUrl="http://localhost:30860/LoteriaNacional.svc?xsd=xsd2" />
+    <MetadataFile FileName="LoteriaNacional1.xsd" MetadataType="Schema" ID="daff7724-63fc-4f9d-a6c7-dd8b8753b5b6" SourceId="1" SourceUrl="http://localhost:30860/LoteriaNacional.svc?xsd=xsd0" />
+    <MetadataFile FileName="LoteriaNacional2.xsd" MetadataType="Schema" ID="51a974c1-0fcf-4d1b-91fc-ea591c0cfb36" SourceId="1" SourceUrl="http://localhost:30860/LoteriaNacional.svc?xsd=xsd1" />
+    <MetadataFile FileName="LoteriaNacional.disco" MetadataType="Disco" ID="fd38bfa1-49e0-402d-8815-c381149a1326" SourceId="1" SourceUrl="http://localhost:30860/LoteriaNacional.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

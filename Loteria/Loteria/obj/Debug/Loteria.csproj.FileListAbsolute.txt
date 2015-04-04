@@ -1,0 +1,12 @@
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.dll.config
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Debug\Loteria.csprojResolveAssemblyReference.cache
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Debug\Loteria.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Debug\Loteria.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\AccesoDatos.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\EntityFramework.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\EntityFramework.SqlServer.dll
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\AccesoDatos.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\EntityFramework.xml
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\EntityFramework.SqlServer.xml

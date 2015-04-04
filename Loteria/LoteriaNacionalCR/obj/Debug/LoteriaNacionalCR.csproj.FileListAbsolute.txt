@@ -1,0 +1,9 @@
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\bin\Debug\LoteriaNacionalCR.exe.config
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\bin\Debug\LoteriaNacionalCR.exe
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\bin\Debug\LoteriaNacionalCR.pdb
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.csprojResolveAssemblyReference.cache
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.Form1.resources
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.Properties.Resources.resources
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.csproj.GenerateResource.Cache
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.exe
+D:\Users\VargasVillalobos\Documents\Marcial\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\LoteriaNacionalCR\obj\Debug\LoteriaNacionalCR.pdb
